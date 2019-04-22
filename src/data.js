@@ -38,7 +38,15 @@ export const data = {
 	experience: {
 		title: "Experience",
 		icon: "briefcase",
-		items: [
+		items: [			
+		{
+				name: "Pth Comprehensive Talents Development Company Limited",
+				title: "Web Developer",
+				date: "Jan 2019 - March 2019",
+				points: [
+					"Using React.js to create website that allow kids to take the tests about: memory, language...",
+				],
+			},
 			{
 				name: "Umbala Network Start-up (umbala.network)",
 				title: "Web Developer",
@@ -155,8 +163,8 @@ github: <a href="https://github.com/coder054/car-api2"> backend </a>, <a href="h
 						<tbody>
 								<tr>
 									<td> Bootstrap, CSS3, JQuery, React.js (redux, mobx, react-router-dom, next.js), Vue.js (vuex, vue router), Ant Design, Semantic ui </td>
-									<td> Node.js, Express.js, Mongodb, Postgres, MySQL, Laravel, Wordpress, Drupal </td>
-									<td> Git, Resful API, JSON API, Heroku, JWT, Redux, Mobx, Apollo client, ES6 </td>
+									<td> Node.js, Express.js, Mongodb, MySQL, Wordpress, Drupal </td>
+									<td> Git, Resful API, JSON API, Heroku, JWT, Redux, Mobx, ES6 </td>
 								</tr>
 						</tbody>
 						
