@@ -1,5 +1,5 @@
 export const data = {
-	lastUpdated: "20 Dec 2018",
+	lastUpdated: "22 April 2019",
 	name: "Đỗ Tuấn Anh",
 	title: "software engineer",
 	pic:
@@ -122,6 +122,13 @@ github: <a href="https://github.com/coder054/car-api2"> backend </a>, <a href="h
 					`
 <a href="http://anhdt-images.herokuapp.com">anhdt-images.herokuapp.com</a> : An website written in Vue.js + vuex + vue router with imgur api as backend that allow user to upload, view, delete images
 					`,
+										`
+<a href="https://images-redux.coder054.now.sh">images-redux.coder054.now.sh</a> The same website as anhdt-images.herokuapp.com but written in react.js + redux
+					`,
+					`
+<a href="https://anhdt-random-react-projects.coder054.now.sh">anhdt-random-react-projects.coder054.now.sh</a> Some small random react side projects
+					`,
+					
 				],
 			},
 		],
