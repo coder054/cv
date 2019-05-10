@@ -1,15 +1,15 @@
 {
-  "main.css": "/cv/static/css/main.8cf79d07.chunk.css",
-  "main.js": "/cv/static/js/main.97471e0e.chunk.js",
-  "main.js.map": "/cv/static/js/main.97471e0e.chunk.js.map",
-  "static/js/1.c6661824.chunk.js": "/cv/static/js/1.c6661824.chunk.js",
-  "static/js/1.c6661824.chunk.js.map": "/cv/static/js/1.c6661824.chunk.js.map",
+  "main.css": "/cv/static/css/main.4e59724f.chunk.css",
+  "main.js": "/cv/static/js/main.0529988b.chunk.js",
+  "main.js.map": "/cv/static/js/main.0529988b.chunk.js.map",
+  "static/js/1.9cbd2280.chunk.js": "/cv/static/js/1.9cbd2280.chunk.js",
+  "static/js/1.9cbd2280.chunk.js.map": "/cv/static/js/1.9cbd2280.chunk.js.map",
   "runtime~main.js": "/cv/static/js/runtime~main.084ac45a.js",
   "runtime~main.js.map": "/cv/static/js/runtime~main.084ac45a.js.map",
   "static/media/avata.png": "/cv/static/media/avata.d3b037ce.png",
-  "static/media/bootstrap.min.css": "/cv/static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static/css/main.8cf79d07.chunk.css.map": "/cv/static/css/main.8cf79d07.chunk.css.map",
+  "static/media/bootstrap.min.css": "/cv/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/css/main.4e59724f.chunk.css.map": "/cv/static/css/main.4e59724f.chunk.css.map",
   "index.html": "/cv/index.html",
-  "precache-manifest.6d3b458c1e322b918aa7fd84e30d722b.js": "/cv/precache-manifest.6d3b458c1e322b918aa7fd84e30d722b.js",
+  "precache-manifest.330b239633c097e2c170830bd96f8733.js": "/cv/precache-manifest.330b239633c097e2c170830bd96f8733.js",
   "service-worker.js": "/cv/service-worker.js"
 }
